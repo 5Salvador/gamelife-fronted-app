@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Console or PC",
+    "subtitle": "Timeless Elegance",
+    "date": "12th August 2022",
+    "imageUrl": "https://i.pinimg.com/736x/16/e4/3a/16e43a257beaea542cee80fe5253b5ac.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Unveiling the Hottest Beachwear Trends",
+    "subtitle": "Summer Breeze",
+    "date": "18th January 2023",
+    "imageUrl": "https://i.pinimg.com/736x/de/5d/fe/de5dfec30de99b878bc262f29d277085.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Exploring the Power of DualSense",
+    "subtitle": "Power Dressing",
+    "date": "5th January 2025",
+    "imageUrl": "https://i.pinimg.com/736x/71/ca/cc/71caccb443614cf4b3dc6f6cba51617d.jpg"
+  },
+  {
+      "id": 4,
+      "title": "The World's Best Pc games 2025",
+      "subtitle": "New York Times",
+      "date": "25th May 2025",
+      "imageUrl": "https://i.pinimg.com/736x/15/f9/11/15f91148c4bd8299631959a051ae6e6b.jpg"
+    }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "id": 1,
+    "name": "Xbox Controller",
+    "category": "accessories",
+    "description": "Stylish leather handbag with ample storage space.",
+    "price": 79.99,
+    "oldPrice": 99.99,
+    "image": "https://i.pinimg.com/736x/9f/25/f9/9f25f9de3519d761a6231d04f8b0d87d.jpg",
+    "color": "black",
+    "rating": 4.5,
+    "author":"admin"
+  },
+  {
+    "id": 2,
+    "name": "Sony Virtual Reality",
+    "category": "accessories",
+    "description": "Elegant evening gown for special occasions.",
+    "price": 149.99,
+    "oldPrice": 199.99,
+    "image": "https://i.pinimg.com/736x/b6/46/40/b64640c7228504a82b7ef2192e791155.jpg",
+    "color": "red",
+    "rating": 4.0
+  },
+  {
+    "id": 3,
+    "name": "Forza Horizon 5 Xbox",
+    "category": "xbox games",
+    "description": "Exquisite gold necklace with intricate design.",
+    "price": 199.99,
+    "image": "https://i.pinimg.com/736x/3e/2f/1d/3e2f1d71da111e97055e13bd767a3731.jpg",
+    "color": "gold",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Sony Headset",
+    "category": "headphones",
+    "description": "Long-lasting matte lipstick in various shades.",
+    "price": 19.99,
+    "image": "https://i.pinimg.com/736x/6c/7c/bf/6c7cbf6bd7962f7cc5e3923b28ad7447.jpg",
+    "color": "red",
+    "rating": 4.2
+  },
+  {
+    "id": 5,
+    "name": "Ea Sports Fc 25 Sony",
+    "category": "games",
+    "description": "Luxurious silk scarf with vibrant colors.",
+    "price": 29.99,
+    "oldPrice": 39.99,
+    "image": "https://http2.mlstatic.com/D_Q_NP_2X_952193-MLA79518486367_092024-V.jpg",
+    "color": "blue",
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "name": "Mortal Kombat 11 Ultimate",
+    "category": "games",
+    "description": "Chic cocktail dress for parties and events.",
+    "price": 89.99,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_868248-MLU70396816488_072023-O.webp",
+    "color": "black",
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "Grand Theft Auto V",
+    "category": "games",
+    "description": "Sparkling diamond earrings that add elegance to any outfit.",
+    "price": 299.99,
+    "oldPrice": 349.99,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_978260-MLU75210824134_032024-O.webp",
+    "color": "silver",
+    "rating": 4.8
+  },
+  {
+    "id": 8,
+    "name": "Cricket 24 Indian Edition",
+    "category": "games",
+    "description": "High-coverage foundation for a flawless finish.",
+    "price": 39.99,
+    "image": "https://i.pinimg.com/736x/58/4d/e1/584de12e8432da864de16ba69e10cd7a.jpg",
+    "color": "beige",
+    "rating": 4.1
+  },
+  {
+    "id": 9,
+    "name": "Cricket 24 (Xbox Series X/Xbox One)",
+    "category": "xbox game",
+    "description": "Trendy sunglasses with UV protection.",
+    "price": 49.99,
+    "image": "https://m.media-amazon.com/images/I/71hOOjTUNVL._AC_SY741_.jpg",
+    "color": "black",
+    "rating": 4.6
+  },
+  {
+    "id": 10,
+    "name": "Spider-Man: Miles Morales (Ps5)",
+    "category": "games",
+    "description": "Comfortable maxi dress for casual outings.",
+    "price": 59.99,
+    "oldPrice": 79.99,
+    "image": "https://i.pinimg.com/736x/09/e0/a9/09e0a9b37e9602fc142f721907e1cd52.jpg",
+    "color": "green",
+    "rating": 4.2
+  }
+]
+
