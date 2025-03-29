@@ -32,7 +32,7 @@ const UpdateOrderModal = ({order, isOpen, onClose}) => {
                         <option value="pending">Pending</option>
                         <option value="processing">Processing</option>
                         <option value="shipped">Shipped</option>
-                        <option value="completed">Completed</option>
+                        <option value="delivered">Delivered</option>
                     </select>
                 </div>
                 

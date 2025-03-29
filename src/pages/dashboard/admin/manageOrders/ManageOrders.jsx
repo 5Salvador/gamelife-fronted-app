@@ -92,7 +92,7 @@ const getStatusColor = (status) => {
             return 'bg-blue-500';
         case 'shipped':
             return 'bg-green-500';
-        case 'completed':
+        case 'delivered':
             return 'bg-gray-500';
         default:
             return 'bg-gray-300';

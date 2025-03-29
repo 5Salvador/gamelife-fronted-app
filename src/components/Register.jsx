@@ -74,7 +74,7 @@ const Register = () => {
         <p className="my-5 italic text-sm text-center">
           Already have an account? Please{" "}
           <Link to="/login" className="underline text-red-400 px-1">
-            Register
+            Login
           </Link>{" "}
           here.
         </p>

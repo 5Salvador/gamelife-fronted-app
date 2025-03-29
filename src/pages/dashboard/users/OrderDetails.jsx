@@ -13,7 +13,7 @@ const OrderDetails = () => {
 
     
     const isCompleted = (status) => {
-        const statuses = ["pending", "processing", "shipped", "completed"];
+        const statuses = ["pending", "processing", "shipped", "delivered"];
         return statuses.indexOf(status) < statuses.indexOf(order.status)
     }
 
@@ -38,8 +38,8 @@ const OrderDetails = () => {
           icon: { iconName: 'truck-line', bgColor: 'blue-800', textColor: 'blue-800' },
         },
         {
-          status: 'completed',
-          label: 'Completed',
+          status: 'delivered',
+          label: 'delivered',
           description: 'Your order has been successfully completed.',
           icon: { iconName: 'check-line', bgColor: 'green-800', textColor: 'green-900' },
         },
