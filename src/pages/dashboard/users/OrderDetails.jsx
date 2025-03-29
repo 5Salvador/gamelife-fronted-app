@@ -40,7 +40,7 @@ const OrderDetails = () => {
         {
           status: 'delivered',
           label: 'delivered',
-          description: 'Your order has been successfully completed.',
+          description: 'Your order has been successfully delivered.',
           icon: { iconName: 'check-line', bgColor: 'green-800', textColor: 'green-900' },
         },
       ];
