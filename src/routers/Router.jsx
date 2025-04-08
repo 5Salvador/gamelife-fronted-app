@@ -28,6 +28,7 @@ import Contact from "../pages/contact/Contact";
 import ConsoleOrPC from "../pages/blogs/contents/ConsoleOrPC";
 import ExploringThePower from "../pages/blogs/contents/Exploring ThePower"
 import BestGames from "../pages/blogs/contents/BestGames";
+import PlayStation from "../pages/blogs/contents/PlayStation";
 
 const  router = createBrowserRouter([
   {
@@ -77,7 +78,11 @@ const  router = createBrowserRouter([
       {
         path: "/best-games",
         element: <BestGames />
-      }
+      },
+      {
+        path: "/playstation",
+        element: <PlayStation />
+      },
     ]
   },
   {
